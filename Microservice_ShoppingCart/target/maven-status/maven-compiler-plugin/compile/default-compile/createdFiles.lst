@@ -1,0 +1,7 @@
+rest\ShoppingCartRest.class
+dao\ShoppingCartDAO.class
+rest\JAXRSconfig.class
+service\ShoppingCartService.class
+service\init.class
+domain\ShoppingCart.class
+dao\ShoppingCartDAOImpl.class
